@@ -1,5 +1,12 @@
 TODO: 
-    what will we use in this project ?? 
+    LEARN TO USE BASIC FIGMA TO DESIGN THE FRONT END FIRST (4h) []
+    
+    THE CORE IDEA OF THE APP: 
+        ...
+    DECIDE WHAT FEATURES THE WEB APP WILL HAVE: 
+        ...
+
+    WHAT TECHNOLOGY WILL WE USE IN THIS PROJECT ?? 
         WE WILL USE MERN STACK - @Current 
         TYPESCRIPT FOR BACKEND 
 DONE: 
