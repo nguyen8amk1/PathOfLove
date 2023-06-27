@@ -1,9 +1,5 @@
 TODO: 
     what will we use in this project ?? 
-        Front-end: ReactJS 
-        Back-end: NodeJS, Java Spring, C# .Net ?? 
-        Database: Mysql or MongoDB ?? 
-        The core idea of the web app: 
-        Basic features of the web app: login, logout, ...  
-        -> WE NEED TO DECIDE THIS ASAP @Current         
+        WE WILL USE MERN STACK - @Current 
+        TYPESCRIPT FOR BACKEND 
 DONE: 
