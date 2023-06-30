@@ -1,10 +1,13 @@
+REFERENCES: google my map  
+    -> youtube: https://www.youtube.com/watch?v=AYetzQ-InXo&ab_channel=GeoDeltaLabs
+
 TODO: 
     LEARN TO USE BASIC FIGMA TO DESIGN THE FRONT END FIRST (4h) []
         have a initial design of the program -> the main features: 
             Input a bunch of destinations -> place it on the map -> select a few of those and show a route 
 
         -> basically just to up the mood of the project 
-        
+
     WRITE A REACTJS FRONT END FOR THE INITIAL DESIGN (5h) []
 
     THE CORE IDEA OF THE APP: 
