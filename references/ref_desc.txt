@@ -4,6 +4,6 @@ What google my map has:
 
 What we gonna learn from it (ui, ux, Learn how it's design the simple ux): 
     - Add a place
-    - Share map
+    - Share map 
 
-    -> NOTE: NEED A CUTER INTERFACE THAN MY MAP AND SUPER SIMPLE TO USE
+    -> NOTE: NEED A CUTER INTERFACE THAN MY MAP AND SUPER SIMPLE TO USE (LIKE A TODO LIST UX MAYBE ??)

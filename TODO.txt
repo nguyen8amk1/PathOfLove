@@ -28,7 +28,8 @@ TODO:
 
         Have a web version and and android version 
 
-        Can share the route to others 
+        Can share the route to others -> share only the route schedule and how we gonna play -> not the map
+        Can share the map to others  
         
     DECIDE WHAT FEATURES THE WEB APP WILL HAVE: 
         REGISTER, LOGIN, LOGOUT 
