@@ -2,7 +2,7 @@ REFERENCES: google my map
     -> youtube: https://www.youtube.com/watch?v=AYetzQ-InXo&ab_channel=GeoDeltaLabs
 
 TODO: 
-    SETUP THE BASIC MERN STACK PROJECT WITH TYPESCRIPT (2h) [] @Current 
+    SETUP BASIC REACTJS PROJECT (1h) [] @Current 
 
     LEARN TO USE BASIC FIGMA TO DESIGN THE FRONT END FIRST (4h) []
         have a initial design of the program -> the main features: 
