@@ -2,7 +2,7 @@ REFERENCES: google my map
     -> youtube: https://www.youtube.com/watch?v=AYetzQ-InXo&ab_channel=GeoDeltaLabs
 
 TODO: 
-    SETUP BASIC REACTJS PROJECT (1h) [] @Current 
+    FOR NOW JUST COPY THE FRONT END OF GOOGLE MY MAP (10h) [] @Current 
 
     LEARN TO USE BASIC FIGMA TO DESIGN THE FRONT END FIRST (4h) []
         have a initial design of the program -> the main features: 
@@ -41,3 +41,4 @@ TODO:
         WE WILL USE MERN STACK - @Current 
         TYPESCRIPT FOR BACKEND 
 DONE: 
+    SETUP BASIC REACTJS PROJECT (1h) [X]
