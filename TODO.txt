@@ -1,9 +1,15 @@
 REFERENCES: google my map  
     -> youtube: https://www.youtube.com/watch?v=AYetzQ-InXo&ab_channel=GeoDeltaLabs
 
-TODO: 
-    FOR NOW JUST COPY THE FRONT END OF GOOGLE MY MAP (10h) [] @Current 
+TODAY: 
+    FOR NOW JUST COPY THE FRONT END OF GOOGLE MY MAP (10h) [] 
+        what features: 
+            searching for places [] @Current 
+            choose the place []
+            add the place to layer []
+            show the picked location onto the map []
 
+TODO: 
     LEARN TO USE BASIC FIGMA TO DESIGN THE FRONT END FIRST (4h) []
         have a initial design of the program -> the main features: 
             Input a bunch of destinations -> place it on the map -> select a few of those and show a route 
