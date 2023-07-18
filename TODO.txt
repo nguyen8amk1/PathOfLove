@@ -4,7 +4,9 @@ REFERENCES: google my map
 TODAY: 
     FOR NOW JUST COPY THE FRONT END OF GOOGLE MY MAP (10h) [] 
         what features: 
-            searching for places [] @Current 
+            searching for places [] 
+                connect the google map searching api with our search bar [] @Current 
+                
             choose the place []
             add the place to layer []
             show the picked location onto the map []
